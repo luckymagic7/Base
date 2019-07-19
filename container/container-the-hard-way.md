@@ -1,3 +1,5 @@
+## 이 문서의 원작자는 당근마켓의 김대권 님입니다.
+
 ## 컨테이너?
 * 컨테이너 엔진 -> libcontainer / libvirt / lxc / systemd-nspawn -> 리눅스 커널
 * **컨테이너**: 리눅스 커널의 기능을 사용해서 프로세스를 **특별한** 형태로 실행하는 기술
@@ -271,3 +273,4 @@ $ tree . -I work
 
 ## 더 공부하기
 * [haconiwa/haconiwa: MRuby on Container / A Linux container runtime using mruby DSL for configuration, control and hooks](https://github.com/haconiwa/haconiwa)
+
